@@ -41,12 +41,3 @@ MediAid is a full-stack doctor appointment management system that allows patient
 ✅ Doctor Dashboard to Manage Appointments  
 ✅ Admin Panel for Doctor Management  
 ✅ Responsive UI with modern design  
-
----
-
-## 🛠️ Setup Instructions
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/MediAid.git
-cd MediAid
